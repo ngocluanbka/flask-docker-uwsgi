@@ -1,0 +1,14 @@
+# Flask framework
+Flask==0.12
+# database
+flask-mongoengine
+# cache
+redis==2.10.5
+Flask-And-Redis
+# security
+flask-login
+flask-bcrypt
+Flask-WTF
+flask-cors==3.0.2
+# task queue
+celery
